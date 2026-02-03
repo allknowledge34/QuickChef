@@ -33,9 +33,7 @@ Built with modern production technologies for web & mobile.
 
 ### 📱 Android App
 - Kotlin (MVVM Architecture)
-- Firebase Authentication
 - Firebase Realtime Database
-- Firebase Storage
 
 ### 🧠 Integrations
 - Google Maps (Live tracking)
